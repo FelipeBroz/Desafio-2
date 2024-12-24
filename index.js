@@ -44,5 +44,4 @@ if(saldoVitorias > 90 && saldoVitorias <=100){
 if(saldoVitorias > 100){
     nivel = 'Imortal'
 }
-
 console.log("O Herói tem saldo de vitorias " + saldoVitorias + " está no nivel de " + nivel);
